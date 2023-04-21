@@ -16,6 +16,7 @@ function onGalleryLinkClick(evt) {
 
   instance.show();
 
+  // Так норм, или нет?
   window.addEventListener(
     'keydown',
     (evt) => {
